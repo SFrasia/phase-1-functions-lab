@@ -1,7 +1,5 @@
 // Code your solution in this file!
 
-//returns the number of blocks given a value
-// Code your solution in this file!
 // Calculate blocks
 function distanceFromHqInBlocks(location) {
   if (location <= 42) {
